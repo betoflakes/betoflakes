@@ -1,6 +1,7 @@
 ### JR Saucedo
+👤 betoflakes
 
-#### a.k.a. betoflakes
+📍 🇲🇽
 
 Wirting code since 2011, Self-taught developer. Mainly working in private repos.
 
