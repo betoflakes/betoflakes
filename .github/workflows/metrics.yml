@@ -88,6 +88,6 @@ jobs:
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: @jrsaucedo
-          repositories_affiliations: 
+          plugin_wakatime_user: jrsaucedo
+          repositories_affiliations: owner, collaborator, organization_member
           repositories_forks: yes
