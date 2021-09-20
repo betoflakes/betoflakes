@@ -70,7 +70,6 @@ jobs:
           plugin_reactions_days: 14                   # Compute reactions on issue comments posted less than 14 days ago
           plugin_reactions_details: count, percentage # Display reactions count and percentage
           plugin_reactions_ignored: bot               # Ignore "bot" user
-          plugin_repositories: 100
           plugin_repositories: yes
           plugin_repositories_batch: 100
           plugin_repositories_forks: yes
