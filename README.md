@@ -3,7 +3,7 @@
 
 📍 🇲🇽
 
-Wirting code since 2011, Self-taught developer. Mainly working in private repos.
+Writing code since 2011, Self-taught developer. Mainly working in private repos.
 
 |![](https://raw.githubusercontent.com/betoflakes/git_stats/actions_branch/generated_images/overview.svg)|![](https://raw.githubusercontent.com/betoflakes/git_stats/actions_branch/generated_images/languages.svg)|
 |-------|------|
